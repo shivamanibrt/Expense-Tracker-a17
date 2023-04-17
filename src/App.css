@@ -1,3 +1,16 @@
 .main {
     min-height: 76vh;
 }
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+
+    /*< ---------- OR ---------->  */
+
+    /* position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+}
